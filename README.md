@@ -1,8 +1,7 @@
 # 👋 Olá! Eu sou **Pedro Dias de Camargo**
 
-###   
 
-
+![MINHA](ChatGPT Image 14 de nov. de 2025, 17_44_56.png)
 ---
 
 ## 🧠 Sobre mim
