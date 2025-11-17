@@ -1,6 +1,9 @@
 # 👋 Olá! Eu sou **Pedro Dias de Camargo**
 
-![minha](img\img.png)
+<img src="https://github.com/user-attachments/assets/73263dea-c686-45ec-8baa-8b84f1eae938" width="200" />
+
+
+
 ---
 
 ## 🧠 Sobre mim
