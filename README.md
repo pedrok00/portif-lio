@@ -37,7 +37,9 @@ Minha maior motivação é **Jesus**, que guia meus passos, meus sonhos e minha 
 - Crescer espiritualmente e ter grande sabedoria na Palavra de Deus  
 - Tornar-me bombeiro  
 - Evoluir como pessoa e ajudar outras pessoas através da fé e da dedicação  
-
+---
+## Meus Artigos
+- [Segurança digital](https://github.com/pedrok00/portif-lio/blob/main/artigo/seguran%C3%A7a%20digital.md)
 ---
 
 ## 🗣️ Uma frase que me representa
